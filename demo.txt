@@ -1,2 +1,8 @@
 This is git hub learning section
+<<<<<<< Updated upstream
 learnig git maditory
+=======
+learnig git maditory.
+
+I am creating a brach testing1
+>>>>>>> Stashed changes
